@@ -54,3 +54,13 @@ ul li:hover ul.dropdown {
     font-family: Georgia; 
 
 }
+
+.headline1 {
+    display: inline; 
+}
+
+.center{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
