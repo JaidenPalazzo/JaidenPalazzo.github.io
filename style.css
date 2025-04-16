@@ -49,3 +49,18 @@ ul li a:hover {
 ul li:hover ul.dropdown {
     display: block; 
 }
+
+.label {
+    font-family: Georgia; 
+
+}
+
+.headline1 {
+    display: inline; 
+}
+
+.center{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
