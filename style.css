@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
 
 *{
-    padding: 0; 
+    padding: 1; 
     margin: 0; 
     font-family: 'Poppins', monospace;
 
@@ -9,7 +9,7 @@
 
 ul{
     list-style: none; 
-    background: #fff; 
+    background: #ffffff; 
 
 }
 
@@ -20,11 +20,11 @@ ul li{
 
 ul il a { 
     display: block; 
-    padding: 40px 40px ;
+    padding: 20px 25px ;
     color: #ff66c4; 
     text-decoration: none; 
     text-align: center; 
-    font-size: 300px;
+    font-size: 20px;
 
 }
 
@@ -34,8 +34,8 @@ ul li ul.dropdown li {
 }
 
 ul li ul.dropdown {
-    width: 100%; 
-    background: #fff;
+    width: 130%; 
+    background: #ffffff;
     position: absolute; 
     z-index: 999; 
     display: none; 
